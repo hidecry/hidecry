@@ -17,7 +17,7 @@
 
 
 <div align="center">
-  <img src="https://api.victims.lol/api/discord-arts/profile-image/1111729007050891295?customAvatar=https%3A%2F%2Fi.pinimg.com%2F736x%2F72%2F6f%2Ff9%2F726ff99e3617d96886eacf4cebd4d542.jpg&presenceStatus=offline&backgroundBrightness=100" alt="Profile Discord"  />
+  <img src="https://api.victims.lol/api/discord-arts/profile-image/1111729007050891295?presenceStatus=offline&backgroundBrightness=100" alt="Profile Discord"  />
 </div>
 
 ###
