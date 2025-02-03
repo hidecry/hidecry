@@ -9,25 +9,15 @@
 
 
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/846381470406148116?borderRadius=20px&theme=dark&showDisplayName=false&hideDecoration=false&hideTimestamp=false&hideBadges=true&bg=282A36&hideStatus=false&hideProfile=false&hideSpotify=true&hideActivity=true" alt="Profile Discord"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hidecry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidecry&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="130" alt="languages graph"  />
+  <img src="https://api.victims.lol/api/discord-arts/profile-image/1111729007050891295?customAvatar=https%3A%2F%2Fi.pinimg.com%2F736x%2F72%2F6f%2Ff9%2F726ff99e3617d96886eacf4cebd4d542.jpg&presenceStatus=offline&backgroundBrightness=100" alt="Profile Discord"  />
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://discord.com/users/1111729007050891295" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=282A36&logoColor=white&labelColor=AE5572&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-### 
- 
-<div align="center">
-  <img src="https://lanyard.cnrad.dev/api/846381470406148116?borderRadius=20px&theme=dark&showDisplayName=false&hideDecoration=false&hideTimestamp=false&hideBadges=true&bg=282A36&hideStatus=false&hideProfile=true&hideSpotify=false&hideActivity=false" alt="Widget with the current Spotify song"  />
-</div>
