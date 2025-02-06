@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hidecry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hidecry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -17,7 +17,7 @@
 
 
 <div align="center">
-  <img src="https://api.victims.lol/api/discord-arts/profile-image/1111729007050891295?presenceStatus=offline&backgroundBrightness=100" alt="Profile Discord"  />
+  <img src="https://api.victims.lol/api/discord-arts/profile-image/1111729007050891295?borderColor=%231d2025&usernameColor=%23ffffff&customSubtitle=+++++++++++++++owner+of+victims&backgroundBrightness=100&moreBackgroundBlur=true&removeBadges=true" alt="Profile Discord"  />
 </div>
 
 ###
